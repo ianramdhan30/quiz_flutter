@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_flutter//question_logic.dart';
+import 'package:quiz_flutter/question_logic.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
 QuestionLogic questionLogic = QuestionLogic();
